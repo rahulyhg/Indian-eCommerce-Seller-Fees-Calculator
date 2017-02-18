@@ -1,12 +1,11 @@
 # Indian-eCommerce-Seller-Fees-Calculator
-This is a C++ program that basically calculates the fees that is deducted from seller's remittance. 
+This is a C++ project that basically calculates the fees that is deducted from seller's remittance. 
 The rates are taken from near-to-real-world deductions done by Indian eCommerce websites like Flipkart, Snapdeal, eBay etc.
 PS -  I've not cleaned up the code, so basically everything is in just one .cpp file(which I know is not a good practice :) )
 Also this project considers the user to be a Seller.
 ###About this project
-Every record is known marked by a Unique ID.
-The project is in a menu driven form.
-It has four options at create a new record, show an existing record knowing an existing ID, delete a record and fourth showing all records.
+Every record is marked by a Unique ID.
+The program is in a menu driven form having four options - create a new record, show an existing record knowing an existing ID, delete a record and also showing all record IDs.
 On creation of a new record, it saves those particular details on the system for future usage/implementation.
 
 
